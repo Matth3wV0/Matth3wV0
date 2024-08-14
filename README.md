@@ -14,9 +14,9 @@
 
 <h2>📖Certificate:</h2>
 
-  - [Partner: Cloud Security](https://github.com/Matth3wV0/Matth3wV0)
-  - [CyberOps Associate](https://github.com/Matth3wV0/Matth3wV0)
-  - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Matth3wV0)
+  - [Partner: Cloud Security](https://github.com/Matth3wV0/Certificates/blob/main/Partner%20Cloud%20Security.pdf)
+  - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
+  - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
 
 <!--
 ----PROFILE VIEWS----
