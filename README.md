@@ -12,15 +12,27 @@
   - [Crypto History Price Crawl](https://github.com/Matth3wV0/Matth3wV0)
 
 
-<h2>👨‍💻Certificate:</h2>
+<h2>📖Certificate:</h2>
 
-
+<!--
+----PROFILE VIEWS----
+<details>
+  <summary>About 👤</summary>
+  <div align="center">
+    <h2>About this Account</h2>
+    <p>
+      <a href="github.com/Matth3wV0" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=Matth3wV0&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
+      </a>
+  </div>
+</details>
+-->
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" />][linkedin]
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100009123107065
