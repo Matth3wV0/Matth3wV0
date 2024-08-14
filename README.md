@@ -1,23 +1,26 @@
-<h1>Hi, I'm Matthew! <br/><a href="https://github.com/Matth3wV0">Programmer</a>, <a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/">Cybersecurity Junior</a></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Matthew!)](https://git.io/typing-svg)
+<h1><a href="https://github.com/Matth3wV0">Programmer</a>, <a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/">Cybersecurity Junior</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>Keylogger</b>
+  - [Keylogger](https://github.com/Matth3wV0/Matth3wV0)
 - <b>PROSPIRE Finance Bot</b>
   - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/Matth3wV0)
 - <b>PATAT Bot (Prospire Algorithm Trading AI Tracking)</b>
   - [PATAT Bot](https://github.com/Matth3wV0/Matth3wV0)
-- <b>Keylogger</b>
-  - [Keylogger](https://github.com/Matth3wV0/Matth3wV0)
+- <b>Crypto Hisstry Price Crawl</b>
+  - [Crypto Hisstry Price Crawl](https://github.com/Matth3wV0/Matth3wV0)
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
+
+<h2>👨‍💻Certificate:</h2>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
