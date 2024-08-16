@@ -6,7 +6,7 @@
 
 - <b>Malware</b>
   - [Keylogger](https://github.com/Matth3wV0/Matth3wV0)
-- <b>PROSPIRE Finance Bot</b>
+- <b>PROSPIRE Bot</b>
   - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot)
   - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking)
 - <b>Crawl Data</b>
