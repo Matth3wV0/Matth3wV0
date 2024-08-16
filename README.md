@@ -38,7 +38,7 @@
 
 <h2> ⚡ Stats:</h2>
 
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=matth3wv0&show_icons=true&locale=en" alt="matth3wv0" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=matth3wv0&show_icons=true&locale=en" alt="matth3wv0" /></p>
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matth3wv0&" alt="matth3wv0" /></p>
 
