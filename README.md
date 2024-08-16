@@ -1,13 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Matthew!)](https://git.io/typing-svg)
 <h1><a href="https://github.com/Matth3wV0">Programmer</a>, <a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/">Cybersecurity Junior</a></h1>
 
+
 <h2>👨‍💻Projects:</h2>
 
 - <b>Malware</b>
   - [Keylogger](https://github.com/Matth3wV0/Matth3wV0)
 - <b>PROSPIRE Finance Bot</b>
-  - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/Matth3wV0)
-  - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Matth3wV0)
+  - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot)
+  - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking)
 - <b>Crawl Data</b>
   - [Crypto History Price Crawl](https://github.com/Matth3wV0/Matth3wV0)
 
@@ -31,6 +32,18 @@
   </div>
 </details>
 -->
+<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matth3wv0&show_icons=true&locale=en&layout=compact" alt="matth3wv0" /></p>
+-->
+
+<h2> ⚡ Stats:</h2>
+
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=matth3wv0&show_icons=true&locale=en" alt="matth3wv0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matth3wv0&" alt="matth3wv0" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matth3wv0&label=Profile%20views&color=0e75b6&style=flat" alt="matth3wv0" /> </p>
+
 
 <h2> 🤳 Connect with me:</h2>
 
