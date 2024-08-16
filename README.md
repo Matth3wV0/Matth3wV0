@@ -5,12 +5,12 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Malware</b>
-  - [Keylogger](https://github.com/Matth3wV0/Matth3wV0)
+  - [Keylogger](https://github.com/Matth3wV0/Keylogger)
 - <b>PROSPIRE Bot</b>
   - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot)
   - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking)
 - <b>Crawl Data</b>
-  - [Crypto History Price Crawl](https://github.com/Matth3wV0/Matth3wV0)
+  - [Crypto History Price Crawl](https://github.com/Matth3wV0/Crypto-History-Price-Crawl)
 
 
 <h2>📖Certificate:</h2>
