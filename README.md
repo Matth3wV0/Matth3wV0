@@ -13,7 +13,7 @@
   - [Crypto History Price Crawl](https://github.com/Matth3wV0/Crypto-History-Price-Crawl)
 
 
-<h2>📖Certificate:</h2>
+<h2>📖Certificates:</h2>
 
   - [Partner: Cloud Security](https://github.com/Matth3wV0/Certificates/blob/main/Partner%20Cloud%20Security.pdf)
   - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
