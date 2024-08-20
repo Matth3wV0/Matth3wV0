@@ -19,6 +19,11 @@
   - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
   - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
 
+<h2>📚Course:</h2>
+
+  - [CEHv11](https://github.com/Matth3wV0)
+  - [PortSwigger](https://github.com/Matth3wV0)
+
 <!--
 ----PROFILE VIEWS----
 <details>
