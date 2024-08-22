@@ -10,7 +10,7 @@
   - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot)
   - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking)
 - <b>Crawl Data</b>
-  - [Crypto History Price Crawl](https://github.com/Matth3wV0/Crypto-History-Price-Crawl)
+  - [Crypto History Price Crawl (Updating)](https://github.com/Matth3wV0/Crypto-History-Price-Crawl)
 
 
 <h2>📖Certificates:</h2>
@@ -21,8 +21,8 @@
 
 <h2>📚Course:</h2>
 
-  - [CEHv11](https://github.com/Matth3wV0)
-  - [PortSwigger](https://github.com/Matth3wV0)
+  - [CEHv11 (Updating)](https://github.com/Matth3wV0)
+  - [PortSwigger (Updating)](https://github.com/Matth3wV0)
 
 <!--
 ----PROFILE VIEWS----
