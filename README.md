@@ -20,10 +20,14 @@
   - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
   - [Certificate of HPT On-Job Training](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf)
 
+<!--
 <h2>📚Course:</h2>
 
   - [CEHv11 (Updating)](https://github.com/Matth3wV0)
   - [PortSwigger (Updating)](https://github.com/Matth3wV0)
+-->
+<h2>Write-Up:</h2>
+  - [DF 200 - Known Unknowns (UWSP Pointer Overflow CTF)](https://github.com/Matth3wV0)
 
 <!--
 ----PROFILE VIEWS----
