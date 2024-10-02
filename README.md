@@ -27,7 +27,7 @@
   - [PortSwigger (Updating)](https://github.com/Matth3wV0)
 -->
 <h2>Write-Up:</h2>
-  - [DF 200 - Known Unknowns (UWSP Pointer Overflow CTF)](https://github.com/Matth3wV0)
+  - [DF 200 - Known Unknowns UWSP Pointer Overflow CTF](https://github.com/Matth3wV0)
 
 <!--
 ----PROFILE VIEWS----
