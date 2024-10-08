@@ -26,9 +26,7 @@
   - [CEHv11 (Updating)](https://github.com/Matth3wV0)
   - [PortSwigger (Updating)](https://github.com/Matth3wV0)
 -->
-<h2>Write-Up:</h2>
-
-  - [DF 200 - Known Unknowns (UWSP Pointer Overflow CTF)](https://github.com/Matth3wV0)
+<h2><a href="https://github.com/Matth3wV0/CTF-Writeups">CTF Writeups</a></h2>
 
 <!--
 ----PROFILE VIEWS----
