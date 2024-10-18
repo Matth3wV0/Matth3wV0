@@ -19,6 +19,7 @@
   - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
   - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
   - [Certificate of HPT On-Job Training](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf)
+  - [Honorable Student of Semester (Fall 2023)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Semester_Fall%202023.pdf)
 
 <!--
 <h2>📚Course:</h2>
