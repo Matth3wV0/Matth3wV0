@@ -46,7 +46,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matth3wv0&show_icons=true&locale=en&layout=compact" alt="matth3wv0" /></p>
 -->
 
-<h2> ⚡ Stats:</h2>
+<h2> ⚡ Stats:\n</h2>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=matth3wv0&show_icons=true&locale=en" alt="matth3wv0" /></p>
 <!--
