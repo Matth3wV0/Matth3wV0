@@ -17,10 +17,10 @@
 
   - [Partner: Cloud Security](https://github.com/Matth3wV0/Certificates/blob/main/Partner%20Cloud%20Security.pdf)
   - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
-  - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
   - [Certificate of HPT On-Job Training](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf)
   - [Honorable Student of Semester (Fall 2023)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Semester_Fall%202023.pdf)
-
+  - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
+  - [CCNA Switching, Routing, and Wireless Essentials](https://github.com/Matth3wV0/Certificates/blob/main/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
 <!--
 <h2>📚Course:</h2>
 
