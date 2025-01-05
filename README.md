@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Matthew!)](https://git.io/typing-svg)
-<h1><a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/">Cybersecurity Fresher</a></h1>
+<h1><a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/">Cybersecurity</a></h1>
 
 
 <h2>👨‍💻Projects:</h2>
