@@ -4,6 +4,8 @@
 
 <h2>👨‍💻Projects:</h2>
 
+- <b>IDS</b>
+  - [A Suricata and Machine Learning Based Hybrid Network Intrusion Detection System](https://github.com/Matth3wV0/A-Suricata-and-Machine-Learning-Based-Hybrid-Network-Intrusion-Detection-System)
 - <b>Malware</b>
   - [Keylogger](https://github.com/Matth3wV0/Keylogger)
 - <b>PROSPIRE Bot</b>
