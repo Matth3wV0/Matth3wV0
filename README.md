@@ -22,8 +22,9 @@
   - [Certificate of HPT On-Job Training](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf)
   - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
   - [CCNA Switching, Routing, and Wireless Essentials](https://github.com/Matth3wV0/Certificates/blob/main/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
-  - [Honorable Student of Semester (Fall 2023)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Semester_Fall%202023.pdf)
-  - [Honorable Student of Semester (Fall 2024)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Semester_Fall%202024.pdf) 
+  - [Honorable Student of Semester (Fall 2023)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Fall%202023.pdf)
+  - [Honorable Student of Semester (Fall 2024)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Fall%202024.pdf)
+  - [Honorable Student of Trimester (Spring 2025)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Spring%202025.pdf) 
 <!--
 <h2>📚Course:</h2>
 
