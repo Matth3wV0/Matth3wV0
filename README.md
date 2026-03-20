@@ -1,81 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=30&pause=1000&width=435&lines=Hi%2C+I'm+Matthew!)](https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250)
-<h1><a href="https://votrongduc.me">Cybersecurity</a></h1>
+﻿<div align="center">
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Matthew!;Cybersecurity+Enthusiast;Network+Engineer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<h2>👨‍💻Projects:</h2>
+  <a href="https://votrongduc.me">
+    <img src="https://img.shields.io/badge/Portfolio-votrongduc.me-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-- <b>IDS</b>
-  - [A Suricata and Machine Learning Based Hybrid Network Intrusion Detection System](https://github.com/Matth3wV0/A-Suricata-and-Machine-Learning-Based-Hybrid-Network-Intrusion-Detection-System)
-- <b>Malware</b>
-  - [Keylogger](https://github.com/Matth3wV0/Keylogger)
-- <b>PROSPIRE Bot</b>
-  - [PROSPIRE Finance Bot](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot)
-  - [PATAT Bot (Prospire Algorithm Trading AI Tracking)](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking)
-- <b>Crawl Data</b>
-  - [Crypto History Price Crawl (Updating)](https://github.com/Matth3wV0/Crypto-History-Price-Crawl)
+</div>
 
+---
 
-<h2>📖Certificates:</h2>
+### 👨‍💻 About Me
 
-  - [Partner: Cloud Security](https://github.com/Matth3wV0/Certificates/blob/main/Partner%20Cloud%20Security.pdf)
-  - [CyberOps Associate](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf)
-  - [Certificate of HPT On-Job Training](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf)
-  - [CCNAv7: Introduction to Networks](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf)
-  - [CCNA Switching, Routing, and Wireless Essentials](https://github.com/Matth3wV0/Certificates/blob/main/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf)
-  - [Honorable Student of Trimester (Fall 2023)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Fall%202023.pdf)
-  - [Honorable Student of Trimester (Fall 2024)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Fall%202024.pdf)
-  - [Honorable Student of Trimester (Spring 2025)](https://github.com/Matth3wV0/Certificates/blob/main/Honorable%20Student%20of%20Trimester_Spring%202025.pdf) 
-<!--
-<h2>📚Course:</h2>
+Hi, I am **Matthew (Đức Võ)**. I am passionate about **Cybersecurity**, **Network Engineering**, and **Automation**. My goal is to secure networks and build robust security solutions.
 
-  - [CEHv11 (Updating)](https://github.com/Matth3wV0)
-  - [PortSwigger (Updating)](https://github.com/Matth3wV0)
--->
-<h2><a href="https://github.com/Matth3wV0/CTF-Writeups">CTF Writeups</a></h2>
+- 🔭 I’m currently working on **IDS & Malware Analysis**
+- 🌱 I’m currently learning **Cloud Security & Pentesting**
+- 💬 Ask me about **Python, Networking, Suricata**
 
-<!--
-----PROFILE VIEWS----
-<details>
-  <summary>About 👤</summary>
-  <div align="center">
-    <h2>About this Account</h2>
-    <p>
-      <a href="github.com/Matth3wV0" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=Matth3wV0&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="views count">
-      </a>
-  </div>
-</details>
--->
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matth3wv0&show_icons=true&locale=en&layout=compact" alt="matth3wv0" /></p>
--->
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matth3wv0&label=Profile%20views&color=0e75b6&style=flat" alt="matth3wv0" /> </p>
+### 🛠️ Languages and Tools
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,bash,git,github,vscode,wireshark,kali" />
+  <br/>
+  <img src="https://img.shields.io/badge/Vulnerability-Suricata-red?style=flat&logo=target" />
+  <img src="https://img.shields.io/badge/Network-CCNA-blue?style=flat&logo=cisco" />
+  <img src="https://img.shields.io/badge/Security-Ops-green?style=flat&logo=security" />
+</div>
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 📊 GitHub Stats
 
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/mahendrasaikumargandham/mahendrasaikumargandham/blob/master/logos/linkedin.svg" />][linkedin]
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matth3wv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matth3wv0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" height="180" alt="languages graph"  />
+</div>
 
+---
 
-[facebook]: https://www.facebook.com/profile.php?id=100009123107065
-[instagram]: https://www.instagram.com/votrongduc__
-[linkedin]: https://www.linkedin.com/in/%C4%91%E1%BB%A9c-v%C3%B5-65b24b250/
+### 🚀 Projects
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Category | Project | Description |
+| :--- | :--- | :--- |
+| **🛡️ IDS** | [**Hybrid NIDS**](https://github.com/Matth3wV0/A-Suricata-and-Machine-Learning-Based-Hybrid-Network-Intrusion-Detection-System) | A Suricata and Machine Learning Based Hybrid Network Intrusion Detection System. |
+| **🦠 Malware** | [**Keylogger**](https://github.com/Matth3wV0/Keylogger) | Python-based Keylogger implementation for educational purposes. |
+| **🤖 Bot** | [**PROSPIRE Finance Bot**](https://github.com/Matth3wV0/PROSPIRE-Finance-Bot) | Automated finance tracking and algorithm trading bot. |
+| **🤖 Bot** | [**PATAT Bot**](https://github.com/Matth3wV0/Prospire-Algorithm-Trading-AI-Tracking) | Prospire Algorithm Trading AI Tracking. |
+| **🕷️ Crawler** | [**Crypto Crawl**](https://github.com/Matth3wV0/Crypto-History-Price-Crawl) | Crawling historical price data for cryptocurrencies. |
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Certificates
+
+| Certificate | Status |
+| :--- | :--- |
+| ☁️ [**Partner: Cloud Security**](https://github.com/Matth3wV0/Certificates/blob/main/Partner%20Cloud%20Security.pdf) | Completed |
+| 🛡️ [**CyberOps Associate**](https://github.com/Matth3wV0/Certificates/blob/main/CyberOps%20Associate.pdf) | Completed |
+| 🏢 [**HPT On-Job Training**](https://github.com/Matth3wV0/Certificates/blob/main/Certificate%20of%20HPT%20On-Job%20Training.pdf) | Completed |
+| 🌐 [**CCNAv7: Introduction to Networks**](https://github.com/Matth3wV0/Certificates/blob/main/CCNAv7%20Introduction%20to%20Networks.pdf) | Completed |
+| 📡 [**CCNA Switching, Routing, Wireless**](https://github.com/Matth3wV0/Certificates/blob/main/CCNA%20Switching%2C%20Routing%2C%20and%20Wireless%20Essentials.pdf) | Completed |
+| 🎓 **Honorable Student** (Fall 2023, Fall 2024, Spring 2025) | Awarded |
+
+---
+
+<div align="center">
+  <h3>Thanks for visiting!</h3>
+  
+  <a href="https://github.com/Matth3wV0/CTF-Writeups">
+    <img src="https://img.shields.io/badge/Read-CTF%20Writeups-orange?style=for-the-badge&logo=bookstack" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=Matth3wV0&style=flat-square&label=Profile+Views&color=blue" alt="views count" />
+</div>
